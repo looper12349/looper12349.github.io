@@ -1,5 +1,13 @@
-#header{
+#header {
+  text-align: center;
+  background-color: white;
+}
 
-  colour: red;
+h1 {
+  font-weight: bold;
+  color: green;
+}
 
+body{
+  background-color: black;
 }
